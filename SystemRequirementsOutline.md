@@ -1,6 +1,8 @@
 # Remember Rickenbacker
 **Jay Myser**
+
 **MVNU GPS**
+
 *1.8.2017*
 
 ## 1. Introduction 
@@ -156,4 +158,5 @@ Specifies other useful information for understanding the requirements. Most requ
 ### References
 
 [Apple Developer Website](https://developer.apple.com/)
+
 [Sprite Kit for iOS Development](https://developer.apple.com/spritekit/)
