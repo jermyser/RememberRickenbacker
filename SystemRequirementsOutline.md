@@ -147,7 +147,7 @@ This will be developed on an Apple Mac computer using Xcode and specifically the
 When the application opens the player will be presented with a splash screen with basic instructions and game play will begin when this is dismissed.  Player will contorl their space craft around the game board an try to eliminate all the enemy space craft.  Game play ends when all the enemy craft have been destroyed or the player is killed.
 
 ### System Architecture Diagrams
-I will develop a SAD with UI mockups as my next step
+![Basic Sad Diagram](https://github.com/jermyser/RememberRickenbacker/blob/master/sadDiag.jpg "Basic Sad Diagram")
 
 ## 8. Appendices 
 Specifies other useful information for understanding the requirements. Most requirements should include at least the following two appendices: 
