@@ -3,7 +3,7 @@
 
 **MVNU GPS**
 
-*1.8.2017*
+*5.3.2017*
 
 ## 1. Introduction 
 ### 1.1 System Overview
