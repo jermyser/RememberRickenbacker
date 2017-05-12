@@ -6,7 +6,7 @@ An iOS Space Shooter
 ## Hero Spacecraft
 Early stage of sprite developmemt for hero spacecraft:
 
-![Player Ship Being Constructed](https://github.com/jermyser/RememberRickenbacker/blob/master/goodGuy_0.1.0.png "Player Ship Being Constructed")
+![Player Ship Being Constructed](https://github.com/jermyser/RememberRickenbacker/blob/master/goodGuy_0.3.0.png "Player Ship Being Constructed")
 
 ---
 
